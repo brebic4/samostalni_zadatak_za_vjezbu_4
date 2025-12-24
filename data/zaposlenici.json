@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "ime": "Bruno",
+    "prezime": "Rebic",
+    "godine_staza": 1,
+    "pozicija": "programer"
+  },
+  {
+    "id": 2,
+    "ime": "Mate",
+    "prezime": "Matic",
+    "godine_staza": 5,
+    "pozicija": "direktor"
+  },
+  {
+    "id": 3,
+    "ime": "Pero",
+    "prezime": "Peric",
+    "godine_staza": 3,
+    "pozicija": "voditelj"
+  },
+  {
+    "id": 4,
+    "ime": "Marko",
+    "prezime": "Matić",
+    "godine_staza": 1,
+    "pozicija": "programer"
+  },
+  {
+    "id": 5,
+    "ime": "Ivan",
+    "prezime": "Ivić",
+    "godine_staza": 2,
+    "pozicija": "programer"
+  },
+  {
+    "id": 6,
+    "ime": "John",
+    "prezime": "Doe",
+    "godine_staza": 2,
+    "pozicija": "programer"
+  },
+  {
+    "id": 7,
+    "ime": "Ivan",
+    "prezime": "Ivanovic",
+    "godine_staza": 6,
+    "pozicija": "voditelj"
+  }
+]
